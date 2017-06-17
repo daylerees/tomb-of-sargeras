@@ -16,7 +16,7 @@
 
 - [**Shattering Star**]() the big rolling ball, does huge raid-wide damage when it hits the target. The number of pillars it hits on the way will reduce this.
 
-### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/3/3f/Icon-class-role-dealer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150649) DPS
+### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/3/3f/Icon-class-role-dealer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150649) DPS / All
 
 - [**Infernal Spikes**]() will case swirly puddles under players which when complete will form a large spike (like the pillars on Tichondrius). Make sure to move out of the puddle. We could also try to stand in places beforehand where the pillars might be placed in a line.
 - [**Infernal Burning**]() performs a fel move on all players. To survive, you must line of sight the boss behind an infernal spike.

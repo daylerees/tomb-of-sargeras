@@ -1,7 +1,3 @@
----
-title: Tomb of Sargeras
----
-
 # Tomb of Sargeras
 
 ## Tactics

@@ -1,9 +1,3 @@
----
-title: Tactics - Goroth
-layout: post
----
-
-
 ![Boss Icon](http://wow.zamimg.com/images/wow/journal/ui-ej-boss-goroth.png)
 # Goroth
 

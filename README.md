@@ -11,4 +11,4 @@
 - [**The Desolate Host**](tactics/the-desolate-host.md)
 - [**Maiden of Vigilance**](tactics/maiden-of-vigilance.md)
 - [**Fallen Avatar**](tactics/fallen-avatar.md)
-- [**Kil'jaeden**](tactics/kiljaeden.md)
+- [**Kil'jaeden**](tactics/kil-jaeden.md)

@@ -1,3 +1,8 @@
+---
+title: Tomb of Sargeras
+layout: post
+---
+
 # Tomb of Sargeras
 
 ## Tactics

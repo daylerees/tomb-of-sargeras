@@ -1,5 +1,5 @@
 ---
-title: Tactics: Goroth
+title: Tactics - Goroth
 layout: post
 ---
 

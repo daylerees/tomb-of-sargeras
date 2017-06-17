@@ -1,4 +1,3 @@
-![Bakground](http://wow.zamimg.com/images/guide/7.2/kiljaeden.jpg)
 # Tomb of Sargeras
 
 ## Tactics

@@ -7,17 +7,17 @@
 
 - N/A
 
-### Tank Specific
+### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/7/7e/Icon-class-role-tank-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150650) Tank Specific
 
-- N/A
+- [**MOVE HERE**]() - N/A
 
-### Healer Specific
+### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/0/07/Icon-class-role-healer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150650) Healer Specific
 
-- N/A
+- [**MOVE HERE**]() - N/A
 
-### General
+### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/3/3f/Icon-class-role-dealer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150649) DPS / All
 
-- N/A
+- [**MOVE HERE**]() - N/A
 
 ## Heroic
 

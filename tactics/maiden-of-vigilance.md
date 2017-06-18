@@ -31,7 +31,7 @@
 #### Phase 2
 
 - [**Wrath of the Creators**]() does ticking damage each time a wave comes out from the boss.
-- She sends out orbs of two colours on tracks similar to games like Audiosurf.
+- She sends out orbs of two colours on tracks similar to games like Audiosurf / Guitar Hero.
 - Move through orbs the same colour as your fel or holy buff while making your way to the boss. Try to stay as grouped up as possible.
 - You need to get to the boss as soon as possible to DPS her shield down.
 - Once the shield is down, interrupt the boss and the first phase starts again dealing new buffs.

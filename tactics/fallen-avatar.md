@@ -24,24 +24,24 @@
 
 ### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/0/07/Icon-class-role-healer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150650) Healer Specific
 
-- [**Unbound Chaos**]() might be the move to use healer cooldowns on.
+- [**Unbound Chaos**](http://www.wowhead.com/spell=234059/unbound-chaos) might be the move to use healer cooldowns on.
 
 ### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/3/3f/Icon-class-role-dealer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150649) DPS / All
 
 #### Phase 1
 
 - [**Containment Pylon**]() shoots a beam towards the boss. Block the beam with the 'Maiden of Valor' add. She will gain energy instead. Try not to deal more than 25% damage to her between shield phases (see next).
-- [**Cleansing Protocol**]() is used by the Maiden at full energy. It's a shielded cast. Break the shield before the end of the cast and interrupt her or wipe the raid.
-- [**Consume**]() is cast by the boss in phase two if the maiden is alive, causing him to gain her remaining health. Make sure she is dead before phase two.
-- [**Touch of Sargeras**]() is a purple circle in the room. At least three people need to stand inside it before it explodes. Immunities work. Spread the raid across the room to make this easier.
-- [**Unbound Chaos**]() causes ticking damage and green pools on the floor. Dodge them.
-- [**Shadowy Blades**]() beams a blue laser at a player. They need to move to the edge/back of the room where a pool will be left under them. Other people should get out of the laser's path. Other players can't see the laser. Look at the shards instead.
-- [**Rupture Realities**]() does proximity based damage. Move as far away from the boss as possible.
+- [**Cleansing Protocol**](http://www.wowhead.com/spell=233856/cleansing-protocol) is used by the Maiden at full energy. It's a shielded cast. Break the shield before the end of the cast and interrupt her or wipe the raid.
+- [**Consume**](http://www.wowhead.com/spell=240594/consume) is cast by the boss in phase two if the maiden is alive, causing him to gain her remaining health. Make sure she is dead before phase two.
+- [**Touch of Sargeras**](http://www.wowhead.com/spell=239058/touch-of-sargeras) is a purple circle in the room. At least three people need to stand inside it before it explodes. Immunities work. Spread the raid across the room to make this easier.
+- [**Unbound Chaos**](http://www.wowhead.com/spell=234059/unbound-chaos) causes ticking damage and green pools on the floor. Dodge them.
+- [**Shadowy Blades**](http://www.wowhead.com/spell=236604/shadowy-blades) beams a blue laser at a player. They need to move to the edge/back of the room where a pool will be left under them. Other people should get out of the laser's path. Other players can't see the laser. Look at the shards instead.
+- [**Rupture Realities**](http://www.wowhead.com/spell=239132/rupture-realities) does proximity based damage. Move as far away from the boss as possible.
 
 #### Phase 2
 
-- [**Black Winds**]() will suck whirlwinds into the boss. Dodge them.
-- [**Dark Mark**]() is the same as the [**Touch of Sargeras**]() circles from phase one. Share the damage.
+- [**Black Winds**](http://www.wowhead.com/spell=242017/black-winds) will suck whirlwinds into the boss. Dodge them.
+- [**Dark Mark**](http://www.wowhead.com/spell=239739/dark-mark) is the same as the [**Touch of Sargeras**](http://www.wowhead.com/spell=239058/touch-of-sargeras) circles from phase one. Share the damage.
 
 ## Heroic
 

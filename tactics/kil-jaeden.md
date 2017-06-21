@@ -11,7 +11,6 @@
 
 - Face the boss away from the raid.
 - [**Felclaws**]() is a stacking buff on the boss which increases damage taken by tank. Taunt on 5ish.
--
 
 ### ![icon](https://vignette4.wikia.nocookie.net/wowwiki/images/0/07/Icon-class-role-healer-42x42.png/revision/latest/scale-to-width-down/20?cb=20131012150650) Healer Specific
 
